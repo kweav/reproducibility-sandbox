@@ -2,7 +2,7 @@
 
 # Acute Myeloid Leukemia Heatmap Analysis
 
-This repository contains R code for analyzing and visualizing RNA-seq data from acute myeloid leukemia (AML) samples. The analysis uses data from Shih et al., 2017 [1] and was adapted from the refine.bio examples [2].
+This repository contains R code for analyzing and visualizing RNA-seq data from acute myeloid leukemia (AML) samples. The analysis uses data from Shih et al., 2017 and was adapted from the refine.bio examples.
 
 ## Purpose
 
