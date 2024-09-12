@@ -68,5 +68,5 @@ To run the entire analysis, execute the R script in the root directory. This wil
 
 ## Contact
 
-For questions or contributions, please add issues or a PR to the repo. 
+For questions or contributions, please add issues or a PR to the repository.
 
